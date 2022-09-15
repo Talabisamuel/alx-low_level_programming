@@ -1,7 +1,7 @@
-#ifndef HOLBERTON_H_INCLUDED
+#ifndef MAIN_H
 #define MAIN_H
 
-int _putchar(char C);
+int _putchar(char c);
 void _print(int n);
 void print_alphabet(void);
 void print_alphabet_x10(void);
